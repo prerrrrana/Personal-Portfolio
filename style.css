@@ -1,0 +1,224 @@
+.button{
+    background-color:#FEFAE0 ;
+    border: 0;
+    border-radius: 20px;
+    padding: 0;
+    margin-right: 10px;}
+.hello{
+    background-color:#CCD5AE;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+    margin-bottom: 0;
+   
+}
+.conatiner{
+    margin-bottom: 0;
+}
+.firstimg{
+ float: left;
+ background-color:#CCD5AE ;
+
+}
+#hellotext{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #946938;
+   margin-top: 100px;
+    margin-left: 60px;
+    font-size:75px;
+   
+}
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #946938;
+   margin-top: 100px;
+    margin-left: 60px;
+    font-size:75px;
+}
+
+#h3{
+    font-family: "Caveat", cursive;
+    font-size: 50px;
+    font-weight: 500;
+    font-style: normal;
+    
+    color: #946938;
+   margin-top: 10px;
+    margin-left: 60px;
+}
+.myimg{
+    float:right;
+    height: 200px; width: 200px;
+    border-radius: 50%;
+    margin: 100px;
+    background-color: #FEFAE0;
+    display: flex;
+    justify-content: flex-end;
+}
+.mypic{
+    background-color: #FEFAE0;}
+
+.para{
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        margin: 80px;
+        font-family: "Zilla Slab", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-weight: bold;
+        color: #946938;
+       margin-top: 10px;
+        margin-left: 50px;
+        font-size:20px;
+        margin-top: 0;
+        padding: 155px;
+        align-items: center;
+        align-content: center;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        padding-top: 0;
+}
+.skills{
+    background-color: #FAEDCE;
+}
+.webdcontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  
+}
+.pro{
+    margin: 20px;
+    margin-left: 50px;
+    width: 150px; height: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: solid #946938 5px ;
+}
+.wricontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr;
+}
+.wri{
+    margin: 50px;
+    margin-left: 110px;
+    width: 200px; height: 200px;
+    border-radius: 50%;
+    border: solid #946938 5px ;
+}
+.skillstext{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 50px;
+    color: #946938;
+}
+.protext{
+    font-family: 'Times New Roman', Times, serif;
+padding-left: 50px;
+color: #946938;
+font-weight: bold;
+}
+.hehe{
+    text-decoration-line: none;
+    margin: 0;
+    padding: 0; margin-left: 0;
+ 
+   font-family: "Saira Condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+   color:#946938 ;
+   font-size: 20px;
+   
+}
+.haha{
+    display: inline;
+}
+.last{
+   
+    background-color: #E0E5B6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-bottom: 80px;
+    
+}
+.lastpara{
+     padding-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: block;
+    margin-left:40%;
+
+}
+.contact{
+    border: 0;
+    border-radius: 10px;
+    background-color: #FEFAE0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+     color:#946938 ;
+     font-size: 20px;
+    
+    
+}
+.contact:hover{
+        background-color:#CCD5AE;
+}
+.butt{
+    border: 0;
+    border-radius: 6px;
+    background-color:#CCD5AE ;
+}
+.butt:hover{
+    background-color: #FEFAE0;
+}
+.resume{
+
+        font-family: "Bree Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: #946938;
+      
+}
+.resumebutton{
+    border: 0;
+    border-radius: 10px;
+    background-color: #FEFAE0;
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+     color:#946938 ;
+     font-size: 20px;
+}
+.sisyphus{
+    margin-top: 40px;
+    width: 300px;
+    height: 300px;
+} 
+.resumebutton:hover{
+    background-color:#CCD5AE ;
+}
+.footer{
+    background-color: #E0E5B6;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.one{
+ display: inline;
+}
+@media (max-width: 600px) {
+    body{
+        width: fit-content;
+    }}
+   
